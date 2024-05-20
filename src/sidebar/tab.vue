@@ -55,9 +55,9 @@
   border-radius: 5px;
   text-align: center;
   transition: background-color 0.3s ease;
-  display: block; /* Ensure block-level button for full width */
-  width: 80%; /* Set the desired width for buttons */
-  box-sizing: border-box; /* Include padding in the width calculation */
+  display: block; 
+  width: 80%; 
+  box-sizing: border-box; 
   margin: 5px auto;
 }
 
